@@ -14,14 +14,14 @@ Then the user is asked if they want more quotes. y or n as inputs. If yes the
 script calls itself and exits the current window. If no then the window simply
 closes.
 
-##How To Run##
+## How To Run ##
 Just download this folder with the download button. Put the Motivation.cmd file
 in a convenient place where you can access DJ Khaled quotes the easiest and double
 click to run.
 
 Please submit any bugs if found.
 
-##Future##
+## Future ##
 I don't expect anyone to watch/star this project cus its dumb but if you do
 just pull every so often to update the script as I'll be adding more stuff
 as I go through tutorials.
