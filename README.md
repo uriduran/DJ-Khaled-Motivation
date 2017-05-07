@@ -1,10 +1,10 @@
-# DJ KHALED MOTIVATION #
+# DJ KHALED MOTIVATION
 I currently have a good understanding of shell scripting in Linux/Mac but I have
 never actually tried learning BASH for Windows. I am making this script to try
 and learn to script. Currently it is very basic. But I hope to make it more
 complex and add more fun stuff in the future.
 
-##How It Works ##
+## How It Works ##
 Currently the script generates a random number between 1-40 and stores it as a
 variable. The variable is then checked through 40 IF statements (If you know a more
 simple or more efficient way of doing this please let me know) and it echos
@@ -29,6 +29,6 @@ as I go through tutorials.
 Will accept any push requests as long as you explain to me what stuff does so I
 can learn.
 
-###Versions###
+### Versions ###
 *1.0 -* Generates random quotes succesfully.
 *1.1 -* Added user input, new quotes appear in new windows.
