@@ -3,7 +3,6 @@
 
 
 set /a var=%random% %%22 +1
-echo %var%
 
 ECHO ______________________________________________________________________________________________
 ECHO.
@@ -54,7 +53,21 @@ ECHO.
 
 ECHO ______________________________________________________________________________________________
 ECHO.
-ECHO Anotha One? (y/n)
+
+set INPUT=
+set /P INPUT=Anotha One? (y/n): %=%
+echo %INPUT%
+IF "%INPUT%"=="y" goto yes
+IF "%INPUT%"=="n" goto no
+
+:yes
+START Motivation.cmd
+exit
+
+:no
+exit
+
+
 ECHO.
 ECHO.
 
