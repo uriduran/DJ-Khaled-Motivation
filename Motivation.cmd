@@ -1,4 +1,6 @@
-:: This is how you write comments in CMD
+:: Turns off commands from printing to screen.
 @ECHO OFF
-echo Hello World
+
+SET hello=Hellow World test test
+echo %hello%
 pause
