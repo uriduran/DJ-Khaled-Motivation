@@ -31,4 +31,5 @@ can learn.
 
 ### Versions ###
 *1.0 -* Generates random quotes succesfully.
+
 *1.1 -* Added user input, new quotes appear in new windows.
